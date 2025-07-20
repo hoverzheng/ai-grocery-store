@@ -117,5 +117,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
 * [Helicone](https://www.helicone.ai/)：通过一行代码将日志，监视和分析添加到任何LLM provider中。
 
-
+## AI书籍资源
+* [ai engeener](https://github.com/chiphuyen/aie-book)：AI Engineering book
 
