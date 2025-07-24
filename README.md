@@ -118,5 +118,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [Helicone](https://www.helicone.ai/)：通过一行代码将日志，监视和分析添加到任何LLM provider中。
 
 ## AI书籍资源
-* [ai engeener](https://github.com/chiphuyen/aie-book)：AI Engineering book
+* [ai engineer](https://github.com/chiphuyen/aie-book)：AI Engineering book
+* [ai engineer](https://huyenchip.com/llama-police): ai engineering 整理的资源
 
