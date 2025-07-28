@@ -121,3 +121,5 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [ai engineer](https://github.com/chiphuyen/aie-book)：AI Engineering book
 * [ai engineer](https://huyenchip.com/llama-police): ai engineering 整理的资源
 
+## 文档理解
+* [docling](https://docling-project.github.io/docling/#features): 文档理解
