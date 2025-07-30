@@ -75,6 +75,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 7.代码对话
 * https://github.com/alexminnaar/RepoGPT
 * https://github.com/weaviate/recipes/tree/main/integrations
+* [flyde](https://flyde.dev/): 可视化编程工具,可以与AI代码助手协作
 
 
 ## 8.mcp
