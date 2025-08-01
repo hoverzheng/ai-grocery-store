@@ -116,6 +116,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 12. 模型微调
 * [kiln.ai](https://docs.getkiln.ai): 无代码模型微调，评价，数据产生，模型蒸馏平台
+* [LoRA模型调优](https://github.com/fshnkarimi/Fine-tuning-an-LLM-using-LoRA/blob/main/README.md#model-architecture): 使用LoRA进行模型调优的例子
 
 ## AI框架
 ### 开源框架
