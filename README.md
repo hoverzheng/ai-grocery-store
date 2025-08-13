@@ -121,6 +121,9 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 13.推理框架（inference framework）
 * [llama2.c](https://github.com/karpathy/llama2.c)：C语言写的llama2推理框架
 * [calm](https://github.com/zeux/calm)：开源的推理框架
+* [chitu](https://github.com/thu-pacman/chitu)：开源python推理框架
+* [BitNet](https://github.com/microsoft/BitNet)：微软发布的开源推理框架
+* 
 
 ## AI框架
 ### 开源框架
