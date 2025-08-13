@@ -118,8 +118,9 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [kiln.ai](https://docs.getkiln.ai): 无代码模型微调，评价，数据产生，模型蒸馏平台
 * [LoRA模型调优](https://github.com/fshnkarimi/Fine-tuning-an-LLM-using-LoRA/blob/main/README.md#model-architecture): 使用LoRA进行模型调优的例子
 
-## 推理框架（inference framework）
+## 13.推理框架（inference framework）
 * [llama2.c](https://github.com/karpathy/llama2.c)：C语言写的llama2推理框架
+* [calm](https://github.com/zeux/calm)：开源的推理框架
 
 ## AI框架
 ### 开源框架
