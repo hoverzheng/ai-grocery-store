@@ -129,3 +129,5 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 文档理解
 * [docling](https://docling-project.github.io/docling/#features): 文档理解
+* [langextract](https://github.com/google/langextract)：从非结构化文档中提取结构化文档信息
+* 
