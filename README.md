@@ -117,6 +117,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 12. 模型微调
 * [kiln.ai](https://docs.getkiln.ai): 无代码模型微调，评价，数据产生，模型蒸馏平台
 * [LoRA模型调优](https://github.com/fshnkarimi/Fine-tuning-an-LLM-using-LoRA/blob/main/README.md#model-architecture): 使用LoRA进行模型调优的例子
+* [模型微调指南](https://arxiv.org/html/2408.13296v1#Ch1.S5)：从基础到突破的微调LLM的最终指南：对技术，研究，最佳实践，应用研究挑战和机遇的详尽评价
+
 
 ## 13.推理框架（inference framework）
 * [llama2.c](https://github.com/karpathy/llama2.c)：C语言写的llama2推理框架
