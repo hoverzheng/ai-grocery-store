@@ -126,6 +126,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [chitu](https://github.com/thu-pacman/chitu)：开源python推理框架
 * [BitNet](https://github.com/microsoft/BitNet)：微软发布的开源推理框架
 * [推理框架的实现过程](https://andrewkchan.dev/posts/yalm.html)：介绍推理框架的实现过程
+* [vllm](https://github.com/vllm-project/vllm)：vllm推理框架
 
 ## AI框架
 ### 开源框架
