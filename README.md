@@ -128,6 +128,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [推理框架的实现过程](https://andrewkchan.dev/posts/yalm.html)：介绍推理框架的实现过程
 * [vllm](https://github.com/vllm-project/vllm)：vllm推理框架
 
+
+## 14. Agent效果测评
+* [AgentBench](https://github.com/THUDM/AgentBench): Agent效果测评开源软件
+
 ## AI框架
 ### 开源框架
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
