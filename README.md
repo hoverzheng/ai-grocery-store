@@ -151,3 +151,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [docling](https://docling-project.github.io/docling/#features): 文档理解
 * [langextract](https://github.com/google/langextract)：从非结构化文档中提取结构化文档信息
 * 
+
+## 多模态
+* [Venice-AI](https://github.com/actuallyrizzn/Venice-AI-SDK?tab=readme-ov-file)：威尼斯AI API的全面Python SDK，为所有威尼斯AI服务提供完整的访问，包括聊天完成，图像生成，音频综合，角色管理等。
