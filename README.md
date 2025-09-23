@@ -133,7 +133,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [AgentBench](https://github.com/THUDM/AgentBench): Agent效果测评开源软件
 * [ragas](https://github.com/explodinggradients/ragas)：AI应用代码评估
 * [langfuse](https://github.com/langfuse)：langfuse
-* 
+
+
+## 15. 代码安全
+* [code security](https://github.com/gemini-cli-extensions/security)：代码安全检查
 
 ## AI框架
 ### 开源框架
