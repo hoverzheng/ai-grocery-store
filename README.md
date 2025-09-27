@@ -138,6 +138,11 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 15. 代码安全
 * [code security](https://github.com/gemini-cli-extensions/security)：代码安全检查
 
+## 16. Agent开发
+* [12-factor-agents](https://github.com/humanlayer/12-factor-agents)：agent开发的12个因素
+* [代码Agent开发总结](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)：AI+coding的经验总结
+
+
 ## AI框架
 ### 开源框架
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
