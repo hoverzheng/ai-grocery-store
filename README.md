@@ -142,6 +142,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [12-factor-agents](https://github.com/humanlayer/12-factor-agents)：agent开发的12个因素
 * [代码Agent开发总结](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)：AI+coding的经验总结
 
+## 17. LLM 研发
+* [llm from scratch] (https://github.com/vivekkalyanarangan30/llm_from_scratch): llm from scratch
 
 ## AI框架
 ### 开源框架
