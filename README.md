@@ -142,6 +142,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [12-factor-agents](https://github.com/humanlayer/12-factor-agents)：agent开发的12个因素
 * [代码Agent开发总结](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)：AI+coding的经验总结
 * [memory manage framework](https://github.com/letta-ai/letta): MemGPT
+* [agent article](https://github.com/YuyaoGe/Awesome-Vibe-Coding): Articles about ai agent
 
 
 ## 17. LLM 研发
