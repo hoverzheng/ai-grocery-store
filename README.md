@@ -147,7 +147,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 17. LLM 研发
 * [llm from scratch] (https://github.com/vivekkalyanarangan30/llm_from_scratch): llm from scratch
-
+* [llm evaluate](https://github.com/allenai/CommonGen-Eval)：CommonGen-Eval
 
 
 ## AI框架
