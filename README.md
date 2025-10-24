@@ -133,6 +133,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [AgentBench](https://github.com/THUDM/AgentBench): Agent效果测评开源软件
 * [ragas](https://github.com/explodinggradients/ragas)：AI应用代码评估
 * [langfuse](https://github.com/langfuse)：langfuse
+* [deepeval](https://github.com/confident-ai/deepeval)：deepeval
 
 
 ## 15. 代码安全
