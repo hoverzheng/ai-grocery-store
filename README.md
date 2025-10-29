@@ -71,6 +71,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 6. 大模型安全
 * prompt注入： https://simonwillison.net/series/prompt-injection/
+* [Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html): Agentic AI and Security
 
 
 ## 7.代码对话
