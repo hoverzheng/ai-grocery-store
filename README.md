@@ -157,6 +157,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ### 开源框架
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
 * [Helicone](https://www.helicone.ai/)：通过一行代码将日志，监视和分析添加到任何LLM provider中。
+* [pipelex](https://docs.pipelex.com/)： Agent writting framework by describe
 
 ## AI书籍资源
 * [ai engineer](https://github.com/chiphuyen/aie-book)：AI Engineering book
