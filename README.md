@@ -147,6 +147,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [memory manage framework](https://github.com/letta-ai/letta): MemGPT
 * [agent article](https://github.com/YuyaoGe/Awesome-Vibe-Coding): Articles about ai agent
 * [multiple agent framework](https://github.com/awslabs/agent-squad): agent squad
+* [Agent design pattern](https://github.com/microsoft/ai-agents-for-beginners)：agent 设计模式
 
 
 ## 17. LLM 研发
