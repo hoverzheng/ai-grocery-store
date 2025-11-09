@@ -148,6 +148,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [agent article](https://github.com/YuyaoGe/Awesome-Vibe-Coding): Articles about ai agent
 * [multiple agent framework](https://github.com/awslabs/agent-squad): agent squad
 * [Agent design pattern](https://github.com/microsoft/ai-agents-for-beginners)：agent 设计模式
+* [Agent设计范式](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)： agent设计范式
 
 
 ## 17. LLM 研发
