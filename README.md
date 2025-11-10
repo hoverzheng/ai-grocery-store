@@ -150,6 +150,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [Agent design pattern](https://github.com/microsoft/ai-agents-for-beginners)：agent 设计模式
 * [Agent设计范式](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)： agent设计范式
 * [agentsilex](https://github.com/howl-anderson/agentsilex):最小Agent框架，用于学习原理，理解Agent运行
+* [lazyllm](https://docs.lazyllm.ai/zh-cn/stable/)：国人写的lazyllm
 
 
 ## 17. LLM 研发
