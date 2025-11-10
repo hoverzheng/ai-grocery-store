@@ -156,8 +156,11 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [llm from scratch] (https://github.com/vivekkalyanarangan30/llm_from_scratch): llm from scratch
 * [llm evaluate](https://github.com/allenai/CommonGen-Eval)：CommonGen-Eval
 
+## embedding
+* [velocidb](https://github.com/niklabh/velocidb/tree/main): embedding db writed by Rust like SQlite
 
-## AI框架
+
+## AI框架 
 ### 开源框架
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
 * [Helicone](https://www.helicone.ai/)：通过一行代码将日志，监视和分析添加到任何LLM provider中。
