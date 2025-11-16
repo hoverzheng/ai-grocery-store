@@ -153,6 +153,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [lazyllm](https://docs.lazyllm.ai/zh-cn/stable/)：国人写的lazyllm
 * [holmesgpt](https://holmesgpt.dev/)：命令行Agent
 * [codewiki](https://codewiki.google/): codewiki
+* [agno](https://github.com/agno-agi/agno): 多智能体框架agno
 
 
 ## 17. LLM 研发
