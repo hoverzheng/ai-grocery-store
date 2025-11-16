@@ -152,6 +152,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [agentsilex](https://github.com/howl-anderson/agentsilex):最小Agent框架，用于学习原理，理解Agent运行
 * [lazyllm](https://docs.lazyllm.ai/zh-cn/stable/)：国人写的lazyllm
 * [holmesgpt](https://holmesgpt.dev/)：命令行Agent
+* [codewiki](https://codewiki.google/): codewiki
 
 
 ## 17. LLM 研发
