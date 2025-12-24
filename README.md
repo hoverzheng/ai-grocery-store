@@ -182,3 +182,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 多模态
 * [Venice-AI](https://github.com/actuallyrizzn/Venice-AI-SDK?tab=readme-ov-file)：威尼斯AI API的全面Python SDK，为所有威尼斯AI服务提供完整的访问，包括聊天完成，图像生成，音频综合，角色管理等。
+
+## LLM Gateway
+* [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy):A self-hosted proxy that provides a single, OpenAI-compatible API endpoint for all your LLM providers. Works with any application that supports custom OpenAI base URLs—no code changes required in your existing tools.
