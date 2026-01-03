@@ -47,6 +47,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 3.coding copilot
 
+### code2doc
+* [CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki): CodeWiki
+* [ai-doc-gen](https://github.com/divar-ir/ai-doc-gen): ai-doc-gen
+
 ### opensource project
 
 ### products
