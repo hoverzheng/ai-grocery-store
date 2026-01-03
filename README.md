@@ -161,8 +161,11 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [llm from scratch] (https://github.com/vivekkalyanarangan30/llm_from_scratch): llm from scratch
 * [llm evaluate](https://github.com/allenai/CommonGen-Eval)：CommonGen-Eval
 
-## embedding
+## 18. embedding
 * [velocidb](https://github.com/niklabh/velocidb/tree/main): embedding db writed by Rust like SQlite
+
+## 19. 如何用自然语言编程
+* [自然语言编程范式](https://github.com/nicolasahar/morphic-programming/blob/main/morphic_programming_manual_v1.md): morphic programming manual
 
 
 ## AI框架 
