@@ -113,6 +113,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 软件开发
 * 仅仅用来编写后端的系统：https://pipo360.xyz/#demo
+* [delta: robust LLM-powered code editor designed for experienced engineers](https://github.com/truefire/delta):一款基于 LLM 的极简、强大的代码编辑器，专为经验丰富的工程师设计。
 
 ## 10. ai + bi
 * [vanna](https://github.com/vanna-ai/vanna?tab=readme-ov-file)
