@@ -178,6 +178,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## GUI Agent
 * [Windows-Use](https://github.com/CursorTouch/Windows-Use): Windows-Use is a powerful automation agent that interact directly with the Windows at GUI layer. 
 * [CogVLM](https://github.com/zai-org/CogVLM/tree/main):CogVLM 是一个强大的开源视觉语言模型（VLM）
+* [UI-TARS](https://github.com/bytedance/UI-TARS) : UI-TARS-desktop version, which can operate on your local personal device. 
 
 
 
