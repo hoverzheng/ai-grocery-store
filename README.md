@@ -175,6 +175,12 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [自然语言编程范式](https://github.com/nicolasahar/morphic-programming/blob/main/morphic_programming_manual_v1.md): morphic programming manual
 
 
+## GUI Agent
+* [Windows-Use](https://github.com/CursorTouch/Windows-Use): Windows-Use is a powerful automation agent that interact directly with the Windows at GUI layer. 
+* [CogVLM](https://github.com/zai-org/CogVLM/tree/main):CogVLM 是一个强大的开源视觉语言模型（VLM）
+
+
+
 ## AI框架 
 ### 开源框架
 * [Langfuse](https://langfuse.com/):  跟踪，评价，观测，提示词管理
