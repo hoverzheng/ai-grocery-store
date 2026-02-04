@@ -202,3 +202,14 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## LLM Gateway
 * [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy):A self-hosted proxy that provides a single, OpenAI-compatible API endpoint for all your LLM providers. Works with any application that supports custom OpenAI base URLs—no code changes required in your existing tools.
+
+
+## system design
+* [tiktok system design](https://grokkingthesystemdesign.com/guides/tiktok-system-design/): TikTok System Design:(Step-by-Step Guide)
+
+## claude code 
+* [claude_concepts_guide](https://github.com/luongnv89/claude-howto/blob/main/claude_concepts_guide.md): claude concepts guide
+
+
+## agent skill
+* [ASK: Agent Skills Kit for Enterprise AI](https://github.com/yeasy/ask): ASK: Agent Skills Kit for Enterprise AI
