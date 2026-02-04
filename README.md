@@ -213,3 +213,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## agent skill
 * [ASK: Agent Skills Kit for Enterprise AI](https://github.com/yeasy/ask): ASK: Agent Skills Kit for Enterprise AI
+* [what are skills](https://agentskills.io/what-are-skills): What are Skills?
+* [Planning with Files](https://github.com/OthmanAdi/planning-with-files/tree/master): Planning with Files
+
