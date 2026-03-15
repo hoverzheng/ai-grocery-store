@@ -51,6 +51,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki): CodeWiki
 * [ai-doc-gen](https://github.com/divar-ir/ai-doc-gen): ai-doc-gen
 * [codewiki](https://codewiki.google/): the codewiki of google
+* [repoly](https://www.repoly.pro/): AI GitHub Repository Analyzer
 
 ### opensource project
 
