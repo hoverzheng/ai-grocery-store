@@ -163,6 +163,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [holmesgpt](https://holmesgpt.dev/)：命令行Agent
 * [codewiki](https://codewiki.google/): codewiki
 * [agno](https://github.com/agno-agi/agno): 多智能体框架agno
+* [agents.md介绍] (https://github.com/agentsmd/agents.md): agents.md的介绍
+* [Agent控制平面] (https://agentcontrol.dev/): The Open-Source Control Plane for AI Agents
+* [skill-issue-harness-engineering-for-coding-agents](https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents): skill-issue-harness-engineering-for-coding-agents
+
 
 
 ## 17. LLM 研发
@@ -174,6 +178,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 19. 如何用自然语言编程
 * [自然语言编程范式](https://github.com/nicolasahar/morphic-programming/blob/main/morphic_programming_manual_v1.md): morphic programming manual
+
+## skills
+* [AI图像生成、视频生成、歌曲生成等强大技能](https://github.com/awesome-genmedia/skills): https://github.com/awesome-genmedia/skills
+
 
 
 ## GUI Agent
@@ -192,6 +200,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## AI书籍资源
 * [ai engineer](https://github.com/chiphuyen/aie-book)：AI Engineering book
 * [ai engineer](https://huyenchip.com/llama-police): ai engineering 整理的资源
+
 
 ## 文档理解
 * [docling](https://docling-project.github.io/docling/#features): 文档理解
@@ -217,3 +226,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [what are skills](https://agentskills.io/what-are-skills): What are Skills?
 * [Planning with Files](https://github.com/OthmanAdi/planning-with-files/tree/master): Planning with Files
 * [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/README.md): Awesome OpenClaw Skills
+
+
+## text-to-speak
+* [copyspeak](https://github.com/ilyaizen/CopySpeak): 快速 AI 文本转语音的轻量级工具
+
