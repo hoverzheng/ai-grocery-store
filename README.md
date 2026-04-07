@@ -166,7 +166,11 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [agents.md介绍] (https://github.com/agentsmd/agents.md): agents.md的介绍
 * [Agent控制平面] (https://agentcontrol.dev/): The Open-Source Control Plane for AI Agents
 * [skill-issue-harness-engineering-for-coding-agents](https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents): skill-issue-harness-engineering-for-coding-agents
-
+* [Fleet](https://github.com/danrex/fleet): A dead simple multi-agent orchestration tool
+* [Agent Lint](https://github.com/samilozturk/agentlint): Agent Lint 帮助编码代理维护决定其工作方式的文件
+* [SGNL — Signal Intelligence CLI](https://github.com/stoyan-koychev/sgnl-cli): SGNL 是一个命令行工具，可以分析网页的性能、SEO 和结构质量
+* [Scriba](https://github.com/giovannialberto/scriba): Scriba 是一个Agent，可以将您的录音转变为可搜索、可查询的知识库，并让您可以针对所有内容提出问题。它构建了一个持久的知识图，因此代理始终具有上下文，而不仅仅是您所说的最后一句话。
+* [The AI Software Factory](https://github.com/StephanSchmidt/human): 人工智能软件工厂。输入门票、文档、设计和分析。发送代码。从想法到审核的一条安全管道。克劳德在线上，人类在场上。由你掌控。
 
 
 ## 17. LLM 研发
