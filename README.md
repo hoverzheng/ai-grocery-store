@@ -171,6 +171,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [SGNL — Signal Intelligence CLI](https://github.com/stoyan-koychev/sgnl-cli): SGNL 是一个命令行工具，可以分析网页的性能、SEO 和结构质量
 * [Scriba](https://github.com/giovannialberto/scriba): Scriba 是一个Agent，可以将您的录音转变为可搜索、可查询的知识库，并让您可以针对所有内容提出问题。它构建了一个持久的知识图，因此代理始终具有上下文，而不仅仅是您所说的最后一句话。
 * [The AI Software Factory](https://github.com/StephanSchmidt/human): 人工智能软件工厂。输入门票、文档、设计和分析。发送代码。从想法到审核的一条安全管道。克劳德在线上，人类在场上。由你掌控。
+* [pi.agent](https://pi.dev/):  Pi 是一个最小的端子编码线束。让 pi 适应您的工作流程，而不是相反。使用 TypeScript 扩展、技能、提示模板和主题对其进行扩展。将它们捆绑为 pi 包并通过 npm 或 git 共享。四种模式：交互、打印/JSON、RPC 和 SDK。请参阅 OpenClaw 进行实际集成。
 
 
 ## 17. LLM 研发
