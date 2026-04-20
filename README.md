@@ -236,3 +236,12 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## text-to-speak
 * [copyspeak](https://github.com/ilyaizen/CopySpeak): 快速 AI 文本转语音的轻量级工具
 
+
+## AI应用领域
+
+### AI+数据工程
+* [https://www.altimate.sh/](https://github.com/AltimateAI/altimate-code): AI数据工程
+
+### AI软件开发
+* [https://pi.dev/](https://pi.dev/): Pi 是一个极简的终端编程工具。应让 Pi 适应你的工作流程，而非相反。你可以使用 TypeScript 扩展、各种技能、提示词模板和主题来扩展它。将这些扩展打包为 Pi 包，通过 npm 或 git 进行分享。
+
